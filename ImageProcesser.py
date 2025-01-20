@@ -1,7 +1,8 @@
 from PIL import Image, ImageEnhance, ImageFilter
 import os
 
-
+#  Before we satrt Create a Folder for image store to store the imgs and use as path
+# Then PathOut get automatic created 
 path = './imgs'
 PathOut = './editedImgs'
 
